@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="acme_comics_apiproxy">
+    <Basepaths>/acme_comics_apiproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1553607450700</CreatedAt>
+    <CreatedBy>darren.kabengele@everis.com</CreatedBy>
+    <Description>Everis Internal Apigee Training proxy</Description>
+    <DisplayName>acme_comics_apiproxy</DisplayName>
+    <LastModifiedAt>1553607450700</LastModifiedAt>
+    <LastModifiedBy>darren.kabengele@everis.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:e37caab7c3021f1d23d267165967c67392e3ec43f01b3e617b77950df8dbd14c8039be25004291deb471b87262ee1a1edfd4d66e549fd3f5701dc3d335d7959c</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

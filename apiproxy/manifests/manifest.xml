@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Response-Cache-1" version="SHA-512:e4d475d116bc46b99a7490b42e7736501d359ee2411357570b5e2955145d6ee432b8e075108378e4b5f409a632982aa61b4c2b13d7b31679c5786568ff4a86d0"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:912cc8946517462f3f589d15bb4ebb6bd1ed30a8e61208246a10ca9bfd71ebbbd0450e67e49f767c50deace9ca6199aea99233ed0ee6acc9c89375cec8447093"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a3695656a6bf2961b9d360dc41983724b43aad2195faad9a83f8280da53e7e8a7b03be54d18412233d298ef5dc02939e2a22e706ab7580850662706ca93dd8de"/>
+    </TargetEndpoints>
+</Manifest>
